@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="@dimen/height_se_60">
+    <RelativeLayout
+        android:id="@+id/third"
+        android:layout_below="@+id/second"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:padding="@dimen/height_se_12"
+        android:layout_height="@dimen/height_se_60">
+        <ImageView
+            android:id="@+id/iv"
+            android:src="@mipmap/user_touxiang_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_toRightOf="@+id/iv"
+            android:id="@+id/news"
+            android:gravity="center"
+            android:layout_marginLeft="@dimen/height_se_10"
+            android:textSize="@dimen/text_se_16"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/news"/>
+        <TextView
+            android:layout_alignParentRight="true"
+            android:id="@+id/nums"
+            android:layout_marginRight="@dimen/height_se_20"
+            android:gravity="center"
+            android:layout_centerVertical="true"
+            android:text="@string/num"
+            android:background="@mipmap/msg_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+</LinearLayout>

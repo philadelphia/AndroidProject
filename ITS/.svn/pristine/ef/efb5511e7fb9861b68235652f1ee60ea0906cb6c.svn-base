@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/activity_mian"
+    android:orientation="vertical"
+    android:background="@color/color_fff">
+    <LinearLayout
+        android:id="@+id/pw_ll_background"
+        style="@style/activity_mian"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/deleta_ll"
+           style="@style/activity_wrap"
+            android:layout_marginTop="@dimen/height_se_20"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/height_se_64">
+
+            <ImageView
+               style="@style/activity_wraps"
+                android:layout_gravity="center"
+                android:src="@drawable/pw_tuijian" />
+
+            <LinearLayout
+                style="@style/activity_wraps"
+                android:layout_marginLeft="@dimen/height_se_3"
+                android:orientation="vertical">
+
+                <TextView
+                   style="@style/activity_wraps"
+                    android:text="@string/tui_jian"
+                    android:textColor="@color/color_939"
+                    android:textSize="@dimen/text_se_18" />
+
+                <TextView
+                   style="@style/activity_wraps"
+                    android:layout_marginTop="@dimen/height_se_6"
+                    android:text="@string/mei_tian_fa_sheng_shi"
+                    android:textColor="@color/color_080"
+                    android:textSize="@dimen/text_se_12" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/cancel_ll"
+            style="@style/activity_wraps"
+            android:layout_marginTop="@dimen/height_se_32"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/height_se_64">
+
+            <ImageView
+                style="@style/activity_wraps"
+                android:layout_gravity="center"
+                android:src="@drawable/pw_guanzhu" />
+
+            <LinearLayout
+                style="@style/activity_wraps"
+                android:layout_marginLeft="@dimen/height_se_3"
+                android:orientation="vertical">
+
+                <TextView
+                   style="@style/activity_wraps"
+                    android:text="@string/guan_zhu"
+                    android:textColor="@color/color_939"
+                    android:textSize="@dimen/text_se_18" />
+
+                <TextView
+                   style="@style/activity_wraps"
+                    android:layout_marginTop="@dimen/height_se_6"
+                    android:text="@string/ni_suo_guan_zhu_shi"
+                    android:textColor="@color/color_080"
+                    android:textSize="@dimen/text_se_12" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/cancel_ll_ouyu"
+           style="@style/activity_wrap"
+            android:layout_marginTop="@dimen/height_se_32"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/height_se_64">
+
+            <ImageView
+                style="@style/activity_wraps"
+                android:layout_gravity="center"
+                android:src="@drawable/pw_ouyu" />
+
+            <LinearLayout
+                style="@style/activity_wraps"
+                android:layout_marginLeft="@dimen/height_se_3"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/activity_wraps"
+                    android:text="@string/ou_yu"
+                    android:textColor="@color/color_939"
+                    android:textSize="@dimen/text_se_18" />
+
+                <TextView
+                    style="@style/activity_wraps"
+                    android:layout_marginTop="@dimen/height_se_6"
+                    android:text="@string/yu_dao_zi_ji_xi_huan_shi"
+                    android:textColor="@color/color_080"
+                    android:textSize="@dimen/text_se_12" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

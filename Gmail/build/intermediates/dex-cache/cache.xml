@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_441f9798427ac58edd56d1187b7a9308bd076c87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\retrofit-2.0.2_31a8c0e2e72fb97549e20c6610f4751ead2a6a75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.android\build-cache\460596d88260525e4c7b2bddccb081d9227859e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\classes_e5dcb75ddf2bf074563322d6552539f01b26a3cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.android\build-cache\6ebf54a6f2a32d38e163a94796aae966b144eec5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\classes_06c45f08149e603e7b4ae64706ee2696ecc816d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\glide-3.7.0_e1c274a6316b3f12e958681d5edb3807c09ee8c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.android\build-cache\a359e4a1d03bde22fcd16710133116b228dea686\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\classes_a57419627a22fc324d9fa4ae6473517d271da04f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.android\build-cache\6f4a6d1a49941b344b5561499518702332942cca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\classes_c575c5347493d0f968ea9d09102bf9f3aed47e9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_8a595267d3fc27fb57f99b81bc2fae2567520180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.android\build-cache\5d1b84f7488439898e3ae0b319b83669e6311914\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\classes_b657385d29f334fb3df53cec2a8ff242ffbedfea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.android\build-cache\5436687a395df92511436b72bd774999d282db98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\classes_74819d1ba3f6d91c2145b6895603e515d8a0108c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.android\build-cache\68d5d7bb5cc2f8c5237738a6a17904963c8f0207\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_dc3f0a7af4736469e3e29ad1e3181b3a1e9d4cc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\okio-1.6.0_df1136dbfbe32734d8c79ba4560d0cd5f5833e41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.android\build-cache\d2e7ece04b59f130fdb23c938ecb0ddcf33ab4b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\classes_862b3b014a3669c52fc0b379021d2103039615b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.android\build-cache\5d1b84f7488439898e3ae0b319b83669e6311914\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2097b16d8fb147f8220a171630f6a65112daf775.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.android\build-cache\d1df5527989cb1107fc88bd2ce8bf4e99e55309a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\classes_9703181a85e48924c82864bc01f85095a063bd68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_cfadae5c43523a71cbc1676b4282e76320183eb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_a45405e82f9eb237681c9cf66b4eb54d7b88c9f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.android\build-cache\d1df5527989cb1107fc88bd2ce8bf4e99e55309a\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a704f8b34a5ed6711e8e3dd7dfb67f3cd1d74cda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\gson-2.6.2_8f309ce954c377b46cbe9f91efd46f9fdde81801.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.android\build-cache\68d5d7bb5cc2f8c5237738a6a17904963c8f0207\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\classes_551977ebbdcc9b7275a21d3c8c3b399c80afba1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.android\build-cache\de4b54b1ea1003a47e6f85e133dea66f8d8f012d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\classes_395fec02547a4902ee59c8924a191a609d9d5451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.android\build-cache\5d7334d9a2121efe325bf24c9a68177384e5950e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\classes_32f4232cb3de7eac2bc86405da37c9b7d8695f74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.android\build-cache\d2e7ece04b59f130fdb23c938ecb0ddcf33ab4b1\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8ef34fdc53f09f8e3bc1739dfb5399f8174db665.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.android\build-cache\6e29badde0976611910d3c8d4a3fc1f9af364b18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\classes_199c4db86849338e6142a83d8730854570b66a61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.zt.zhang\.android\build-cache\6e29badde0976611910d3c8d4a3fc1f9af364b18\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\openSource\Gmail\Gmail\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_022a6ed5003d6d94efa092dc0676ae1690744272.jar" />
+    </item>
+
+</items>

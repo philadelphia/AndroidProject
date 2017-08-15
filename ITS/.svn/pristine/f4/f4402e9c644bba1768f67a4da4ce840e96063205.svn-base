@@ -1,0 +1,117 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_se_42"
+        android:layout_alignParentTop="true"
+        android:background="@color/color_fff">
+
+        <LinearLayout
+            android:id="@+id/photoPicker_ll_back"
+            android:orientation="horizontal"
+            android:layout_width="@dimen/height_se_50"
+            android:layout_height="@dimen/height_se_42">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/height_se_21"
+                android:textColor="@color/color_939"
+                android:text="@string/cancel"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/height_se_16"
+                 />
+        </LinearLayout>
+        <LinearLayout
+            android:gravity="center"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:orientation="horizontal"
+            android:layout_height="@dimen/height_se_42">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/height_se_21"
+            android:textColor="@color/color_939"
+            android:text="@string/camera"
+            android:layout_marginLeft="@dimen/height_se_16"
+            />
+            <ImageView
+                android:layout_marginLeft="@dimen/height_se_5"
+                android:src="@mipmap/nav_jiantou"
+                android:layout_width="15dp"
+                android:layout_height="15dp" />
+        </LinearLayout>
+        <Button
+            android:id="@+id/commit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/color_1c9"
+            android:background="@null"
+            android:textSize="16sp"
+            android:text="@string/release_ok" />
+    </RelativeLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#191919">
+
+        <GridView
+            android:id="@+id/photo_gridview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:numColumns="3"
+            android:verticalSpacing="2dip"
+            android:horizontalSpacing="2dip"
+            android:stretchMode="columnWidth"
+            android:cacheColorHint="@android:color/transparent"
+            android:listSelector="@android:color/transparent" >
+        </GridView>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/bottom_tab_bar"
+                android:layout_width="match_parent"
+                android:layout_height="?android:attr/actionBarSize"
+                android:layout_alignParentBottom="true"
+                android:background="@color/color_fff">
+                <TextView
+                    android:id="@+id/preview"
+                    android:gravity="center"
+                    android:layout_margin="@dimen/height_se_10"
+                    android:padding="@dimen/height_se_10"
+                    android:background="@mipmap/tab_button"
+                    android:text="@string/preview"
+                    android:layout_centerVertical="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_toRightOf="@+id/preview"
+                    android:text="@string/yuantu"
+                    android:gravity="center"
+                    android:background="@mipmap/tab_button_default_yuan"
+                    android:layout_margin="@dimen/height_se_10"
+                    android:padding="@dimen/height_se_8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:id="@+id/photo_num"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:textColor="@color/color_939"
+                    android:textSize="16sp"
+                    android:layout_marginRight="12dp"
+                    android:text="1024张"/>
+            </RelativeLayout>
+        </RelativeLayout>
+
+    </FrameLayout>
+</LinearLayout>
+
